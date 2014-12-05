@@ -1,6 +1,6 @@
 {
   "name": "derby-botnet",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Botnet to test idg",
   "main": "lib/index.js",
   "scripts": {
