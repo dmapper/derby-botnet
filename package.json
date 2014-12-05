@@ -1,0 +1,20 @@
+{
+  "name": "derby-botnet",
+  "version": "1.0.0",
+  "description": "Botnet to test idg",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Artur Zayats <zag2art@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^0.9.0",
+    "chalk": "^0.5.1",
+    "charlatan": "^0.1.9",
+    "coffee-script": "^1.8.0",
+    "lodash": "^2.4.1",
+    "yamlify": "^0.1.2"
+  }
+}
