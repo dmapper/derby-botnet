@@ -19,7 +19,7 @@
     "charlatan": "^0.1.9",
     "coffee-script": "^1.8.0",
     "derby-bot": "0.0.2",
-    "lodash": "^2.4.1",
+    "lodash": "^4.17.10",
     "yamlify": "^0.1.2"
   }
 }
